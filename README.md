@@ -16,5 +16,5 @@ The user should be able to:
 - Filter the users by at least one property.
 
 # Links
-https://react-employee-directory-homework.netlify.app/
-
+- https://react-employee-directory-homework.netlify.app/
+- https://dexburns25.github.io/employee-directory/
